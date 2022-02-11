@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aline89b
+- 👋 Hi, I’m @AlineGrianti
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning html/css and javascript
 - 💞️ I’m looking to collaborate on developing small websites
