@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlineGrianti
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning html/css and javascript
-- 💞️ I’m looking to collaborate on developing small websites
+- 👀 I've studied front end development on Start2impact platform
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking for my first job as developer 
 - 📫 How to reach me a.grianti89@gmail.com
 
 <!---
