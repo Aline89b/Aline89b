@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **small professional website**
+- 👯 I’m looking for  **my first job as front end developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aline89b/Aline89b.github.io](https://github.com/Aline89b/Aline89b.github.io)
+- 👨‍💻 All of my projects are available at [https://aline89b.github.io](https://aline89b.github.io)
 
 - 💬 Ask me about **studying web developement on your own**
 
 - 📫 How to reach me **a.grianti89@gmail.com**
-
-- ⚡ Fun fact **didnt know anything about coding til December 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
